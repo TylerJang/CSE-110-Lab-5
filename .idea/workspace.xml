@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb413a57-6d40-4294-9105-f4e042ed9e48" name="Default Changelist" comment="" />
+    <list default="true" id="cb413a57-6d40-4294-9105-f4e042ed9e48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +31,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bE6I7xKVE87kFY5xKfO6bcT7jK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -135,7 +141,8 @@
       <option name="presentableId" value="Default" />
       <updated>1588184822507</updated>
       <workItem from="1588184827069" duration="4906000" />
-      <workItem from="1588638725282" duration="1962000" />
+      <workItem from="1588638725282" duration="3177000" />
+      <workItem from="1588706343853" duration="1762000" />
     </task>
     <servers />
   </component>
@@ -183,6 +190,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="914" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588299726520" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1588706350886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588706350885" />
     <state x="184" y="417" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588200489950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
